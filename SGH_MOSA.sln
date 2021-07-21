@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGH_MOSA", "SGH_MOSA\SGH_MOSA.csproj", "{FB8CEBF2-5F2F-4890-95E3-34326B52D710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIServer.Connector", "DIServer.Connector\DIServer.Connector.csproj", "{4821B845-C9F4-49AD-ADB6-9A68EC5C3414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8CEBF2-5F2F-4890-95E3-34326B52D710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8CEBF2-5F2F-4890-95E3-34326B52D710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8CEBF2-5F2F-4890-95E3-34326B52D710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8CEBF2-5F2F-4890-95E3-34326B52D710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4821B845-C9F4-49AD-ADB6-9A68EC5C3414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4821B845-C9F4-49AD-ADB6-9A68EC5C3414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4821B845-C9F4-49AD-ADB6-9A68EC5C3414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4821B845-C9F4-49AD-ADB6-9A68EC5C3414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
